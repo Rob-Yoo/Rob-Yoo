@@ -1,5 +1,4 @@
-
-42Seoul에서 진행중인 본과정 프로젝트를 소개합니다.
+![jinyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rob-Yoo&show_icons=true&theme=radical)
 
 [![jinyoo's 42 stats](https://badge42.herokuapp.com/api/stats/jinyoo)](https://profile.intra.42.fr/users/jinyoo)
 
@@ -14,4 +13,3 @@
 |   | [minitalk](https://github.com/Rob-Yoo/42Seoul---Inner-Circle/minitalk) | Small data exchange program using UNIX signals | ![jinyoo's minitalk Score](https://badge42.herokuapp.com/api/project/jinyoo/minitalk) |
 |   | [so_long](https://github.com/Rob-Yoo/42Seoul---Inner-Circle/so_long) | Small 2D game with minilibx | ![jinyoo's so_long Score](https://badge42.herokuapp.com/api/project/jinyoo/so_long) |
 
-![jinyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rob-Yoo&show_icons=true&theme=radical)
