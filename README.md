@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="142"> 
 
-<!--
-**Rob-Yoo/Rob-Yoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+42Seoul에서 진행중인 본과정 프로젝트를 소개합니다.
 
-Here are some ideas to get you started:
+[![jinyoo's 42 stats](https://badge42.herokuapp.com/api/stats/jinyoo)](https://profile.intra.42.fr/users/jinyoo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭕️ Inner Circle
+| Circle | Project | Skills | Status |
+|:---:|:---|:---|:---:|
+| 0 | [Libft](https://github.com/Rob-Yoo/42Seoul---Inner-Circle/Libft) | My very first own C library | ![jinyoo's Libft Score](https://badge42.herokuapp.com/api/project/jinyoo/Libft) |
+| 1 | [get_next_line](https://github.com/Rob-Yoo/42Seoul---Inner-Circle/get_next_line) | Reading a line on a fd is way too tedious | ![jinyoo's get_next_line Score](https://badge42.herokuapp.com/api/project/jinyoo/get_next_line) |
+|   | [ft_printf](https://github.com/Rob-Yoo/42Seoul---Inner-Circle/ft_printf) | Make printf function | ![jinyoo's ft_printf Score](https://badge42.herokuapp.com/api/project/jinyoo/ft_printf) |
+|   | [netwhat](netwhat.md) | Understand how network works | ![jinyoo's netwhat Score](https://badge42.herokuapp.com/api/project/jinyoo/netwhat) |
+| 2 | [push_swap](https://github.com/Rob-Yoo/42Seoul---Inner-Circle/pus_swap) | Sorting data on a stack, with a limited set of instructions, and the smallest number of moves. | ![jinyoo's push_swap Score](https://badge42.herokuapp.com/api/project/jinyoo/push_swap) |
+|   | [minitalk](https://github.com/Rob-Yoo/42Seoul---Inner-Circle/minitalk) | Small data exchange program using UNIX signals | ![jinyoo's minitalk Score](https://badge42.herokuapp.com/api/project/jinyoo/minitalk) |
+|   | [so_long](https://github.com/Rob-Yoo/42Seoul---Inner-Circle/so_long) | Small 2D game with minilibx | ![jinyoo's so_long Score](https://badge42.herokuapp.com/api/project/jinyoo/so_long) |
+
+![jinyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rob-Yoo&show_icons=true&theme=radical)
