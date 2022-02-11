@@ -1,4 +1,3 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="142"> 
 
 42Seoul에서 진행중인 본과정 프로젝트를 소개합니다.
 
