@@ -1,8 +1,13 @@
-![jinyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rob-Yoo&show_icons=true&theme=radical)
+## My GitHub Status
+| Stats | Languages |
+|:--:|:--:|
+| ![jinyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rob-Yoo&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rob-Yoo&layout=compact) |
+<br>
 
+## 42 Seoul Status
 [![jinyoo's 42 stats](https://badge42.herokuapp.com/api/stats/jinyoo)](https://profile.intra.42.fr/users/jinyoo)
 
-## ⭕️ Inner Circle
+### ⭕️ Inner Circle
 | Circle | Project | Skills | Status |
 |:---:|:---|:---|:---:|
 | 0 | [Libft](https://github.com/Rob-Yoo/42Seoul---Inner-Circle/tree/master/Libft) | My very first own C library | ![jinyoo's Libft Score](https://badge42.herokuapp.com/api/project/jinyoo/Libft) |
