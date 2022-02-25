@@ -1,5 +1,5 @@
 ## GitHub Status
-| ![jinyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rob-Yoo&show_icons=true&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rob-Yoo&layout=compact&hide_border=true) |
+| ![jinyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rob-Yoo&show_icons=true&hide_border=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rob-Yoo&layout=compact&hide_border=true&theme=dark) |
 | ------------- | ------------- |
 <br>
 
