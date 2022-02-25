@@ -1,4 +1,4 @@
-## My GitHub Status
+## GitHub Status
 | Stats | Languages |
 |:--:|:--:|
 | ![jinyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rob-Yoo&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rob-Yoo&layout=compact) |
