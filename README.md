@@ -1,8 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=90)
+## GitHub Status
+| ![jinyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rob-Yoo&show_icons=true&hide_border=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rob-Yoo&layout=compact&hide_border=true&theme=dark) |
+| ------------- | ------------- |
+<br>
+
+## 42 Seoul Status
+[![jinyoo's 42 stats](https://badge42.vercel.app/api/v2/cl1qex5u8004509mthnwqlmwp/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 <br>
 
 ## Experience
-
 ### Front-End
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
@@ -22,13 +27,3 @@
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<br>
-<br>
-
-## GitHub Status
-| ![jinyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rob-Yoo&show_icons=true&hide_border=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rob-Yoo&layout=compact&hide_border=true&theme=dark) |
-| ------------- | ------------- |
-<br>
-
-## 42 Seoul Status
-[![jinyoo's 42 stats](https://badge42.vercel.app/api/v2/cl1qex5u8004509mthnwqlmwp/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
