@@ -7,6 +7,9 @@
 <br>
 
 ## Experience
+### iOS
+<img src="https://img.shields.io/badge/Swift-EC7845?style=flat-square&logo=swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
+<img src="https://img.shields.io/badge/Xcode-3671DD?style=flat-square&logo=Xcode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 ### Front-End
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
@@ -14,9 +17,6 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-### iOS
-<img src="https://img.shields.io/badge/Swift-EC7845?style=flat-square&logo=swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-<img src="https://img.shields.io/badge/Xcode-3671DD?style=flat-square&logo=Xcode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 ### Other
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=C%2B%2B&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
