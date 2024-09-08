@@ -2,14 +2,12 @@
 | ![jinyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rob-Yoo&show_icons=true&hide_border=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rob-Yoo&layout=donut&hide_border=true&theme=dark) |
 | ------------- | ------------- |
 
-## 42 Seoul Status
-[![jinyoo's 42 stats](https://badge42.vercel.app/api/v2/cl1qex5u8004509mthnwqlmwp/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
-<br>
-
 ## Experience
 ### iOS
 <img src="https://img.shields.io/badge/Swift-EC7845?style=flat-square&logo=swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/Xcode-3671DD?style=flat-square&logo=Xcode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
+<img src="https://img.shields.io/badge/UIkit-2396F3?style=flat-square&logo=UIkit&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
+<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 ### Other
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
