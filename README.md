@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=UIkit&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/SwiftUI-524520?style=flat-square&logo=Swift&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/Xcode-3671DD?style=flat-square&logo=Xcode&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 ### Other
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
